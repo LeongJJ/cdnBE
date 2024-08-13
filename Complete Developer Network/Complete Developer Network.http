@@ -1,0 +1,6 @@
+@Complete_Developer_Network_HostAddress = http://localhost:5258
+
+GET {{Complete_Developer_Network_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
