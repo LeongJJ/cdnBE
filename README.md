@@ -65,10 +65,11 @@ The system enables CRUD (Create, Read, Update, Delete) operations on freelancer 
 
 ### Frontend Setup
 
-1. **Navigate to the Frontend Directory:**
+1. **Clone the Repository:**
 
    ```bash
-   cd ../frontend
+   git clone https://github.com/LeongJJ/cdnFE.git
+   cd cdnFE
 
 2. **Install Dependencies:**
 
